@@ -1,4 +1,4 @@
-public class DescuentoCompras {
+DescuentoCompras {
 
     // Función con valor predeterminado
     public static double calcular_descuento(double montoTotal, double porcentajeDescuento) {
@@ -11,7 +11,7 @@ public class DescuentoCompras {
     }
 
     public static void main(String[] args) {
-        double compra1 = 100.0; // Ejemplo
+        double compra1 = 100.0; 
         double compra2 = 200.0;
 
         // 1. Usando el valor por defecto (10%)
