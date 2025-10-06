@@ -1,0 +1,3 @@
+Nota 1: Hoy aprendí a trabajar con archivos en Python.
+Nota 2: Los métodos open(), read() y write() son fundamentales.
+Nota 3: Siempre debo cerrar los archivos después de usarlos.
